@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55df4d18-b15f-43e2-bff8-48a3a33056a1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/generic/MaxStringAtSecondPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/generic/MaxStringAtSecondPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
       <recent name="com.generic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxStringAtSecondPosition">
+  <component name="RunManager" selected="Application.MaxStringAtThirdPosition">
     <configuration name="FindingMaxFloatThirdPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.generic.FindingMaxFloatThirdPosition" />
       <module name="GenericDAY13" />
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumFloatAtSecondPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.generic.MaximumFloatAtSecondPosition" />
+    <configuration name="MaxStringAtThirdPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.generic.MaxStringAtThirdPosition" />
       <module name="GenericDAY13" />
       <extension name="coverage">
         <pattern>
@@ -97,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxStringAtThirdPosition" />
         <item itemvalue="Application.MaxStringAtSecondPosition" />
         <item itemvalue="Application.MaximumStringAtFirstPosition (1)" />
         <item itemvalue="Application.MaximumStringAtFirstPosition" />
         <item itemvalue="Application.FindingMaxFloatThirdPosition" />
-        <item itemvalue="Application.MaximumFloatAtSecondPosition" />
       </list>
     </recent_temporary>
   </component>
