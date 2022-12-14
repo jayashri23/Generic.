@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55df4d18-b15f-43e2-bff8-48a3a33056a1" name="Changes" comment="" />
+    <list default="true" id="55df4d18-b15f-43e2-bff8-48a3a33056a1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/generic/MaxStringAtSecondPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/generic/MaxStringAtSecondPosition.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,7 @@
       <recent name="com.generic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaximumStringAtFirstPosition">
+  <component name="RunManager" selected="Application.MaxStringAtSecondPosition">
     <configuration name="FindingMaxFloatThirdPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.generic.FindingMaxFloatThirdPosition" />
       <module name="GenericDAY13" />
@@ -47,21 +49,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxFloattFirstPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.generic.MaxFloattFirstPosition" />
-      <module name="GenericDAY13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.generic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxIntThirdPosition$Maximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.generic.MaxIntThirdPosition$Maximum" />
+    <configuration name="MaxStringAtSecondPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.generic.MaxStringAtSecondPosition" />
       <module name="GenericDAY13" />
       <extension name="coverage">
         <pattern>
@@ -86,6 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MaximumStringAtFirstPosition (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaximumStringAtFirstPosition" />
+      <module name="GenericDAY13" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MaximumStringAtFirstPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.generic.MaximumStringAtFirstPosition" />
       <module name="GenericDAY13" />
@@ -101,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxStringAtSecondPosition" />
+        <item itemvalue="Application.MaximumStringAtFirstPosition (1)" />
         <item itemvalue="Application.MaximumStringAtFirstPosition" />
         <item itemvalue="Application.FindingMaxFloatThirdPosition" />
         <item itemvalue="Application.MaximumFloatAtSecondPosition" />
-        <item itemvalue="Application.MaxFloattFirstPosition" />
-        <item itemvalue="Application.MaxIntThirdPosition$Maximum" />
       </list>
     </recent_temporary>
   </component>
