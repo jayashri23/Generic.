@@ -35,7 +35,20 @@
       <recent name="com.generic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxIntThirdPosition$Maximum">
+  <component name="RunManager" selected="Application.MaxFloattFirstPosition">
+    <configuration name="MaxFloattFirstPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.generic.MaxFloattFirstPosition" />
+      <module name="GenericDAY13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.generic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MaxIntThirdPosition$Maximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.generic.MaxIntThirdPosition$Maximum" />
       <module name="GenericDAY13" />
@@ -64,6 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxFloattFirstPosition" />
         <item itemvalue="Application.MaxIntThirdPosition$Maximum" />
         <item itemvalue="Application.MaximumIntFirst" />
       </list>
