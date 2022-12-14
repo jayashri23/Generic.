@@ -33,7 +33,7 @@
       <recent name="com.generic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindingMaxFloatThirdPosition">
+  <component name="RunManager" selected="Application.MaximumStringAtFirstPosition">
     <configuration name="FindingMaxFloatThirdPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.generic.FindingMaxFloatThirdPosition" />
       <module name="GenericDAY13" />
@@ -86,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumIntFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.generic.MaximumIntFirst" />
+    <configuration name="MaximumStringAtFirstPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.generic.MaximumStringAtFirstPosition" />
       <module name="GenericDAY13" />
       <extension name="coverage">
         <pattern>
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumStringAtFirstPosition" />
         <item itemvalue="Application.FindingMaxFloatThirdPosition" />
         <item itemvalue="Application.MaximumFloatAtSecondPosition" />
         <item itemvalue="Application.MaxFloattFirstPosition" />
         <item itemvalue="Application.MaxIntThirdPosition$Maximum" />
-        <item itemvalue="Application.MaximumIntFirst" />
       </list>
     </recent_temporary>
   </component>
